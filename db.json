@@ -1,23 +1,33 @@
 {
-  "TOKO_A": {
-    "Nama": "OLSHOPBABY",
-    "Owner": "Joko",
-    "Produk": [
-      {
-        "PNama": "Diapers",
-        "Stok": 5,
-        "Harga": "Rp. 9000/pcs"
-      },
-      {
-        "PNama": "Susu",
-        "Stok": 6,
-        "Harga": "Rp. 3000/pcs"
-      },
-      {
-        "PNama": "Baju Bayi",
-        "Stok": 5,
-        "Harga": "Rp. 50.000/pcs"
-      }
+    "TokoA": [
+        {
+                "nama": "OLSHOPBABY",
+                "owner": "Joko",
+                "produk": {
+                    "pname1": "Diapers",
+                    "pstock1": "25",
+                    "pprice1": "Rp.20.000",
+               	    "pname2": "Susu",
+                    "pstock2": "55",
+                    "pprice2": "Rp.15.000",
+	            "pname3": "Baju Bayi",
+                    "pstock3": "10",
+                    "pprice3": "Rp.100.000"}
+        },
+        
+        {
+                "nama": "OLSHOPPC",
+                "owner": "Greta",
+                "produk": {
+                    "pname1": "Mouse",
+                    "pstock1": "15",
+                    "pprice1": "Rp.20.000",
+               	    "pname2": "Keyboard",
+                    "pstock2": "25",
+                    "pprice2": "Rp.75.000",
+		    "pname3": "Speaker",
+                    "pstock3": "7",
+                    "pprice3": "Rp.50.000"}
+        }
     ]
-  }
 }
