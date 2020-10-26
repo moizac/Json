@@ -4,17 +4,17 @@
     "Owner": "Joko",
     "Produk": [
       {
-        "Nama": "Diapers",
+        "PNama": "Diapers",
         "Stok": 5,
         "Harga": "Rp. 9000/pcs"
       },
       {
-        "Nama": "Susu",
+        "PNama": "Susu",
         "Stok": 6,
         "Harga": "Rp. 3000/pcs"
       },
       {
-        "Nama": "Baju Bayi",
+        "PNama": "Baju Bayi",
         "Stok": 5,
         "Harga": "Rp. 50.000/pcs"
       }
